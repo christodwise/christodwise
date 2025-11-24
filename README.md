@@ -5,7 +5,7 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://github.com/christodwise"><img src="https://img.shields.io/badge/GitHub-Christo-181717?style=flat&logo=github" /></a>
-  <a href="https://linkedin.com/in/christo"><img src="https://img.shields.io/badge/LinkedIn-Christo-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/christojimmy"><img src="https://img.shields.io/badge/LinkedIn-Christo-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:christo.j@lifetrenz.com"><img src="https://img.shields.io/badge/Email-christo.j@lifetrenz.com-red?style=flat&logo=gmail" /></a>
 </p>
 
